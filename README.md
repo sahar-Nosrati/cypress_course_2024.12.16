@@ -1,1 +1,5 @@
-# cypress_course_2024.12.16
+- start study documents, tutorial
+
+Next plan
+
+- continue study
